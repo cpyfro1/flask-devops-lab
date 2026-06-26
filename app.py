@@ -29,6 +29,7 @@ def home():
 		'<h1>{{ name }}</h1>'
 		'<p>Version: {{ ver }}</p>'
 		'<p><a href="/api/health">/api/health</a></p>'
+		'<p><a href="/api/report">/api/report</a></p>'
 	)
 	return render_template_string(
 		html,
