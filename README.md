@@ -1,4 +1,4 @@
-# Flask DevOps Lab A
+# Flask DevOps Lab
 
 ## Usage
 This app may be used to run diagnostics to check the health, config settings, and report.
